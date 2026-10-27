@@ -1,0 +1,30 @@
+{
+  "name": "koepsel-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site estático da Koepsel Advogados (Blumenau/SC)",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/serve.mjs",
+    "check": "node scripts/check.mjs",
+    "check:prod": "node scripts/check.mjs --prod",
+    "lighthouse": "node scripts/lighthouse.mjs",
+    "test": "node scripts/verify.mjs",
+    "previa": "node scripts/previa.mjs"
+  },
+  "devDependencies": {
+    "@capsizecss/metrics": "4.4.0",
+    "@fontsource/lato": "5.3.0",
+    "@fontsource/tenor-sans": "5.3.0",
+    "axe-core": "4.14.0",
+    "esbuild": "0.28.2",
+    "lighthouse": "13.5.0",
+    "puppeteer-core": "25.16.0",
+    "sharp": "0.35.5"
+  }
+}

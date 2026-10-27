@@ -1,0 +1,243 @@
+{
+  "_leia": "Todo o texto do site mora aqui. Edite só os valores entre aspas. Dado que falta do cliente fica como [[PENDENTE: descrição]] e aparece no site como 'a confirmar'. Nunca use travessão. Depois de editar: npm run build e npm run check.",
+
+  "site": {
+    "nome": "Koepsel Advogados",
+    "nomeGoogle": "Koepsel Advogados em Blumenau",
+    "url": "https://koepseladvogados.com",
+    "titulo": "Koepsel Advogados | Escritório de advocacia em Blumenau/SC",
+    "descricao": "Escritório de advocacia em Blumenau/SC. Família e sucessões, cível, trabalhista, empresarial, administrativo e previdenciário, com hora marcada.",
+    "resumoEntidade": "Koepsel Advogados é um escritório de advocacia em Blumenau (SC), formado por mãe e filha, sócias e iguais: Andressa Koepsel e Liriam Koepsel. Atende família e sucessões, cível e consumidor, trabalhista, empresarial, direito administrativo e servidores públicos, e previdenciário, com atendimento por hora marcada, presencial na Casa Baske House (Jardim Blumenau) ou pelo WhatsApp.",
+    "corTema": "#0C1626",
+    "idioma": "pt-BR",
+    "locale": "pt_BR"
+  },
+
+  "contato": {
+    "whatsapp": "5547997587166",
+    "telefone": "+5547997587166",
+    "telefoneExibicao": "(47) 99758-7166",
+    "telefoneSchema": "+55 47 99758-7166",
+    "instagram": "https://www.instagram.com/koepsel_advogados/",
+    "instagramUsuario": "@koepsel_advogados"
+  },
+
+  "endereco": {
+    "local": "Casa Baske House",
+    "rua": "Rua Engenheiro Rodolfo Ferraz, 76, Sala 05",
+    "ruaCurta": "R. Eng. Rodolfo Ferraz, 76, Sala 05",
+    "bairro": "Jardim Blumenau",
+    "cidade": "Blumenau",
+    "uf": "SC",
+    "cep": "89010-320",
+    "pais": "BR",
+    "latitude": -26.925105,
+    "longitude": -49.062069,
+    "fonteGeo": "OpenStreetMap Nominatim, correspondência no nível do imóvel (R. Eng. Rodolfo Ferraz, 76, CEP 89010-320), consultado em 2026-10-27"
+  },
+
+  "google": {
+    "placeId": "ChIJlUC1OeoZ35QRmDiAw0OP2wo",
+    "cid": "782376481484454040",
+    "mapa": "https://maps.google.com/maps?cid=782376481484454040",
+    "rota": "https://www.google.com/maps/dir/?api=1&destination=Koepsel+Advogados+em+Blumenau&destination_place_id=ChIJlUC1OeoZ35QRmDiAw0OP2wo",
+    "avaliacoes": "https://search.google.com/local/reviews?placeid=ChIJlUC1OeoZ35QRmDiAw0OP2wo"
+  },
+
+  "horario": {
+    "resumo": "Seg a sex, 9h30 às 11h30 e 13h30 às 17h",
+    "faixasTexto": "9h30 às 11h30 · 13h30 às 17h",
+    "diasUteis": [1, 2, 3, 4, 5],
+    "faixas": [
+      { "abre": "09:30", "fecha": "11:30" },
+      { "abre": "13:30", "fecha": "17:00" }
+    ],
+    "dias": [
+      [1, "Segunda-feira"],
+      [2, "Terça-feira"],
+      [3, "Quarta-feira"],
+      [4, "Quinta-feira"],
+      [5, "Sexta-feira"],
+      [6, "Sábado"],
+      [0, "Domingo"]
+    ],
+    "fechado": "Fechado"
+  },
+
+  "whatsapp": {
+    "padrao": "Olá, vim pelo site da Koepsel e gostaria de conversar.",
+    "situacao": "Olá, vim pelo site da Koepsel e gostaria de conversar sobre a minha situação.",
+    "area": "Olá, vim pelo site e gostaria de uma orientação sobre {area}."
+  },
+
+  "nav": [
+    { "texto": "Escritório", "ancora": "escritorio" },
+    { "texto": "Sócias", "ancora": "socias" },
+    { "texto": "Áreas", "ancora": "areas" },
+    { "texto": "Onde estamos", "ancora": "onde" }
+  ],
+
+  "hero": {
+    "eyebrow": "Escritório de advocacia · Blumenau · SC",
+    "linha1": "Colo pra acolher.",
+    "linha2": "Garra pra lutar.",
+    "cta": "Conversar com a Koepsel",
+    "ctaAreas": "Áreas de atuação",
+    "meta": ["Casa Baske House · Jardim Blumenau", "Desde 2008", "5,0 ★ no Google"],
+    "alt": "Equipe da Koepsel Advogados em Blumenau: quatro advogadas vestidas de branco e bege, sentadas e em pé, em estúdio de fundo cinza"
+  },
+
+  "escritorio": {
+    "eyebrow": "Koepsel Advogados",
+    "titulo": "Antes de qualquer processo, existe uma pessoa. Aqui você é ouvido antes de ser atendido,",
+    "tituloDestaque": "e quem decide é você.",
+    "texto": "Um escritório de advocacia em Blumenau formado por mãe e filha, sócias e iguais. Família, cível, trabalhista, empresarial, administrativo e previdenciário num só lugar, com o seu caso visto por inteiro. Quando o acordo é possível, buscamos o acordo. Quando é preciso lutar, seguimos ao seu lado até o fim.",
+    "link": "Conhecer as sócias"
+  },
+
+  "socias": [
+    {
+      "id": "andressa",
+      "nome": "Andressa Koepsel",
+      "cargo": "Sócia",
+      "apelido": "O colo",
+      "areas": ["Cível", "Família", "Trabalhista", "Empresarial"],
+      "foto": "and",
+      "alt": "Retrato de Andressa Koepsel, sócia da Koepsel Advogados, de blazer bege e braços cruzados",
+      "whatsapp": "Olá, vim pelo site e gostaria de falar com a equipe da Dra. Andressa.",
+      "texto": "Andressa é a escuta da Koepsel. Rápida, dinâmica, encontra saída onde parece não haver, e prefere o acordo sempre que ele protege quem confia no escritório.",
+      "citacao": "A gente orienta. Quem decide é você.",
+      "oab": "[[PENDENTE: número da OAB/SC de Andressa Koepsel]]"
+    },
+    {
+      "id": "liriam",
+      "nome": "Liriam Koepsel",
+      "cargo": "Sócia fundadora",
+      "apelido": "A garra",
+      "areas": ["Administrativo", "Servidores Públicos"],
+      "foto": "lir",
+      "alt": "Retrato de Liriam Koepsel, sócia fundadora da Koepsel Advogados",
+      "whatsapp": "Olá, vim pelo site e gostaria de falar com a equipe da Dra. Liriam.",
+      "texto": "Liriam, advogada desde 2008, chegou ao Direito pelas licitações públicas. Persistente e rigorosa, segue pelo caminho certo quantas vezes for preciso, na defesa de servidores públicos e entidades de classe. Dra. Ana completa o ecossistema no previdenciário.",
+      "citacao": "Se não deu na primeira, tenta de novo. Pelo caminho certo.",
+      "oab": "[[PENDENTE: número da OAB/SC de Liriam Koepsel]]"
+    }
+  ],
+
+  "equipe": [
+    {
+      "id": "ana",
+      "nomeExibicao": "Dra. Ana",
+      "nomeCompleto": "[[PENDENTE: nome completo da Dra. Ana]]",
+      "cargo": "Advogada",
+      "areas": ["Previdenciário"],
+      "oab": "[[PENDENTE: número da OAB/SC da Dra. Ana]]"
+    }
+  ],
+
+  "sociedade": {
+    "tipo": "Sociedade de Advogados",
+    "oab": "[[PENDENTE: número de registro da sociedade na OAB/SC]]",
+    "fundacao": "[[PENDENTE: ano de fundação do escritório (o 'Desde 2008' do site é o início da carreira da Liriam)]]"
+  },
+
+  "areas": {
+    "eyebrow": "Áreas de atuação",
+    "titulo": "Um ecossistema jurídico completo em Blumenau.",
+    "itens": [
+      { "titulo": "Família e Sucessões", "descricao": "Divórcio, guarda, pensão, inventário e planejamento sucessório, com prioridade pelo acordo.", "responsaveis": "Andressa · Liriam" },
+      { "titulo": "Cível e Consumidor", "descricao": "Contratos, indenizações, cobranças e direito do consumidor, com análise técnica antes de qualquer passo.", "responsaveis": "Andressa · Liriam" },
+      { "titulo": "Trabalhista", "descricao": "Rescisão, verbas e acordos, com orientação clara pra quem trabalha e pra quem emprega.", "responsaveis": "Andressa" },
+      { "titulo": "Empresarial", "descricao": "Contratos, sociedade e prevenção de conflitos pra empresa crescer com segurança jurídica.", "responsaveis": "Andressa" },
+      { "titulo": "Administrativo e Servidores Públicos", "descricao": "Direitos de servidores, processos administrativos e atuação junto a entidades de classe.", "responsaveis": "Liriam" },
+      { "titulo": "Previdenciário", "descricao": "Aposentadoria, benefícios do INSS e revisões, com planejamento antes do pedido.", "responsaveis": "Dra. Ana" }
+    ]
+  },
+
+  "banda": {
+    "eyebrow": "Como trabalhamos",
+    "linha1": "Você decide.",
+    "linha2": "A gente caminha ao seu lado.",
+    "texto": "Escutamos a sua história sem pressa, mostramos os caminhos com os prazos e os riscos de cada um, e seguimos juntos a partir da sua decisão.",
+    "link": "Começar pela escuta"
+  },
+
+  "avaliacoes": {
+    "eyebrow": "Depoimentos",
+    "titulo": "A confiança de quem já passou por aqui.",
+    "nota": "5,0",
+    "total": 14,
+    "ultimaConferencia": "[[PENDENTE: conferir nota e total no Perfil da Empresa no Google e registrar a data (valores atuais vêm do protótipo)]]",
+    "botao": "Ver no Google",
+    "itens": [
+      { "texto": "O que mais me marcou foi o cuidado no atendimento. Fui tratada de uma forma que me fez sentir realmente única e acolhida, e não apenas mais uma cliente.", "autor": "Rosemarie" },
+      { "texto": "Um escritório que transmite muita segurança pela dedicação e pelo cuidado em apresentar as melhores alternativas, sempre explicando tudo de forma simples e transparente.", "autor": "Provisório Café · empresa" },
+      { "texto": "Andressa é muito detalhista, tem muito conhecimento na área, tirou minhas dúvidas e me deu todo o auxílio que precisava.", "autor": "Brenda" },
+      { "texto": "Dá muita segurança saber que existe esse comprometimento em buscar a melhor solução para cada caso.", "autor": "Gabriel" },
+      { "texto": "Obtive auxílio no mesmo dia em que fiz o primeiro contato. Muito eficientes e com atenção a todos os detalhes.", "autor": "Alissa" },
+      { "texto": "Atendimento para amplos assuntos, em todas as áreas e etapas da nossa vida.", "autor": "Priscila" },
+      { "texto": "Advogadas muito cuidadosas, observam todos os detalhes e buscam todas as possibilidades. Me sinto plenamente segura com suas orientações.", "autor": "Eligiane" }
+    ]
+  },
+
+  "onde": {
+    "eyebrow": "Onde estamos",
+    "titulo": "Cara de casa, não de empresa.",
+    "texto1": "O escritório fica na Casa Baske House, no Jardim Blumenau: uma casa de verdade, pensada pra você conversar com calma, sem balcão e sem pressa.",
+    "texto2": "O atendimento é com hora marcada, presencial ou pelo WhatsApp, pra que cada conversa tenha o tempo que o seu caso precisa.",
+    "horarioTitulo": "Horário de atendimento",
+    "foto": "duo",
+    "alt": "Liriam e Andressa Koepsel, mãe e filha, juntas no escritório da Koepsel Advogados",
+    "googleEyebrow": "Encontre a Koepsel no Google",
+    "googleTitulo": "Koepsel Advogados em Blumenau",
+    "googleTexto": "É assim que o escritório aparece no Google. O caminho, os horários e as avaliações estão no perfil. E o WhatsApp é o mesmo daqui.",
+    "rotuloEndereco": "Endereço",
+    "rotuloTelefone": "Telefone e WhatsApp",
+    "links": { "rota": "Como chegar", "mapa": "Abrir no Google Maps", "avaliacoes": "Avaliações no Google" }
+  },
+
+  "faq": {
+    "eyebrow": "Dúvidas frequentes",
+    "itens": [
+      { "pergunta": "Onde fica a Koepsel Advogados em Blumenau?", "resposta": "Na Casa Baske House, Rua Engenheiro Rodolfo Ferraz, 76, Sala 05, no Jardim Blumenau. O atendimento é com hora marcada, de segunda a sexta, das 9h30 às 11h30 e das 13h30 às 17h." },
+      { "pergunta": "Quais áreas o escritório atende?", "resposta": "Família e sucessões, cível e consumidor, trabalhista, empresarial, direito administrativo e servidores públicos, e previdenciário. As áreas conversam entre si, então o seu caso é visto por inteiro." },
+      { "pergunta": "Como agendar uma conversa com a Koepsel?", "resposta": "Pelo WhatsApp (47) 99758-7166. A primeira conversa serve pra entender a sua situação e explicar, com clareza, os caminhos possíveis." },
+      { "pergunta": "O atendimento pode ser pelo WhatsApp?", "resposta": "Sim. Você pode conversar com o escritório pelo WhatsApp e, quando fizer sentido, marcar um atendimento presencial na Casa Baske House." },
+      { "pergunta": "Todo caso precisa virar processo?", "resposta": "Não. Sempre que possível, buscamos o acordo. Quando é preciso lutar, seguimos com firmeza técnica. Em qualquer caminho, a decisão é sua." }
+    ]
+  },
+
+  "final": {
+    "eyebrow": "Koepsel Advogados",
+    "titulo": "Conte pra gente o que te trouxe até aqui.",
+    "texto": "A primeira conversa é pra entender a sua situação com calma. A decisão continua sendo sua.",
+    "cta": "Falar pelo WhatsApp",
+    "instagram": "Instagram"
+  },
+
+  "rodape": {
+    "aviso": "Conteúdo de caráter exclusivamente informativo, em conformidade com o Código de Ética e Disciplina da OAB e o Provimento nº 205/2021 do CFOAB.",
+    "privacidade": "Política de privacidade · Cookies",
+    "animacoesDesligar": "Desativar animações",
+    "animacoesLigar": "Ativar animações"
+  },
+
+  "privacidade": {
+    "titulo": "Política de privacidade e cookies",
+    "descricao": "Como a Koepsel Advogados trata dados pessoais e cookies neste site.",
+    "introducao": "Este site não usa cookies nem ferramentas de rastreamento. O contato acontece pelo WhatsApp, em conversa iniciada por você.",
+    "corpo": "[[PENDENTE: texto da política de privacidade (LGPD) fornecido e aprovado pelo cliente]]",
+    "atualizadaEm": "[[PENDENTE: data de vigência da política de privacidade]]"
+  },
+
+  "pagina404": {
+    "titulo": "Página não encontrada",
+    "texto": "O endereço que você abriu não existe ou mudou de lugar.",
+    "voltar": "Voltar para o início"
+  },
+
+  "robos": {
+    "_leia": "permitirTreinoIA decide se robôs que coletam conteúdo para TREINAR modelos de IA (GPTBot, ClaudeBot, Google-Extended, Applebot-Extended, CCBot) podem ler o site. Robôs de busca e de ação do usuário ficam sempre liberados.",
+    "permitirTreinoIA": true
+  }
+}

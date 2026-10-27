@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.astro/
+.env
+.env.*
+!.env.example
+.lighthouseci/
+lighthouse-reports/
+*.log
+.DS_Store
+Thumbs.db
+.cache/
+relatorios/
+# gestão interna (repositório privado próprio) e arquivos de sessão local
+interno/
+CLAUDE.md
+.claude/

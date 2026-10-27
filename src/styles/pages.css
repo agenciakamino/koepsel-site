@@ -1,0 +1,13 @@
+/* Só para a política de privacidade e a 404 (inline junto do site.css nessas páginas). */
+.page .nav::before{opacity:1;transform:none}
+.page main{padding-top:calc(var(--nav-h) + env(safe-area-inset-top,0px))}
+.doc{background:var(--branco);padding-block:clamp(80px,10vw,150px)}
+.doc .wrap{max-width:860px}
+.doc .caps{color:var(--marrom)}
+.doc h1{margin-top:30px;font-size:clamp(28px,3.6vw,52px);letter-spacing:.03em;line-height:1.2;text-transform:uppercase}
+.doc p{margin-top:24px;color:var(--suave);max-width:64ch}
+.doc .pend{padding:18px 20px;border:1px dashed var(--marrom);color:var(--tinta)}
+.doc .ln{margin-top:44px;color:var(--tinta)}
+.notfound{min-height:70svh;display:grid;place-items:center;text-align:center}
+.notfound p{margin-inline:auto}
+
