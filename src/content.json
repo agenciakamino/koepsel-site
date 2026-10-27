@@ -1,5 +1,5 @@
 {
-  "_leia": "Todo o texto do site mora aqui. Edite só os valores entre aspas. Dado que falta do cliente fica como [[PENDENTE: descrição]] e aparece no site como 'a confirmar'. Nunca use travessão. Depois de editar: npm run build e npm run check.",
+  "_leia": "Todo o texto do site mora aqui. Edite só os valores entre aspas. Dado que ainda falta fica como [[PENDENTE: descrição]] e aparece no site como 'a confirmar'. Nunca use travessão. Depois de editar: npm run build e npm run check.",
 
   "site": {
     "nome": "Koepsel Advogados",
@@ -138,7 +138,7 @@
   "sociedade": {
     "tipo": "Sociedade de Advogados",
     "oab": "[[PENDENTE: número de registro da sociedade na OAB/SC]]",
-    "fundacao": "[[PENDENTE: ano de fundação do escritório (o 'Desde 2008' do site é o início da carreira da Liriam)]]"
+    "fundacao": "[[PENDENTE: ano de fundação do escritório]]"
   },
 
   "areas": {
@@ -167,7 +167,7 @@
     "titulo": "A confiança de quem já passou por aqui.",
     "nota": "5,0",
     "total": 14,
-    "ultimaConferencia": "[[PENDENTE: conferir nota e total no Perfil da Empresa no Google e registrar a data (valores atuais vêm do protótipo)]]",
+    "ultimaConferencia": "[[PENDENTE: conferir nota e total no Perfil da Empresa no Google e registrar a data da conferência]]",
     "botao": "Ver no Google",
     "itens": [
       { "texto": "O que mais me marcou foi o cuidado no atendimento. Fui tratada de uma forma que me fez sentir realmente única e acolhida, e não apenas mais uma cliente.", "autor": "Rosemarie" },
@@ -226,7 +226,7 @@
     "titulo": "Política de privacidade e cookies",
     "descricao": "Como a Koepsel Advogados trata dados pessoais e cookies neste site.",
     "introducao": "Este site não usa cookies nem ferramentas de rastreamento. O contato acontece pelo WhatsApp, em conversa iniciada por você.",
-    "corpo": "[[PENDENTE: texto da política de privacidade (LGPD) fornecido e aprovado pelo cliente]]",
+    "corpo": "[[PENDENTE: texto da política de privacidade (LGPD) aprovado pelo escritório]]",
     "atualizadaEm": "[[PENDENTE: data de vigência da política de privacidade]]"
   },
 
