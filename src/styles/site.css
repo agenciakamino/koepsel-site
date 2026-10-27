@@ -321,7 +321,7 @@ p{margin:0}
 
 /* ---------- MOTION ----------
    Regra: o estado escondido só existe com a classe .motion no <html>, posta pelo script inline do <head>
-   (JS ativo e visitante sem ter desligado as animações no botão do rodapé). Decisão do Matheus: animar
+   (JS ativo e visitante sem ter desligado as animações no botão do rodapé). Decisão de projeto: animar
    sempre, inclusive com prefers-reduced-motion do sistema, e oferecer o botão para desligar.
    Só transform e opacity. Scroll-driven onde houver suporte; IntersectionObserver no resto. */
 @keyframes rise{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
